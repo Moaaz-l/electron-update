@@ -23,7 +23,7 @@ const createWindow = () => {
     zoomToPageWidth: 1000,
     width: 800,
     height: 600,
-    closable: false,
+    closable: true,
     disableAutoHideCursor: false,
     webPreferences: {
       nodeIntegration: true,
