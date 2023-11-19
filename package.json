@@ -38,7 +38,10 @@
       {
         "provider": "github",
         "owner": "Moaaz-l",
-        "repo": "electron-update"
+        "repo": "electron-update",
+        "appId": "com.example.MyElectron",
+        "productName": "MyElectron",
+        "icon": "src/images/logo.png"
       }
     ]
   }
